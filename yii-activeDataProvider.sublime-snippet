@@ -11,7 +11,7 @@
     ),
 ));$0
 // $dataProvider->getData() will return a list of Post objects]]></content>
-    <tabTrigger>cadp</tabTrigger>
+    <tabTrigger>yii@cadp</tabTrigger>
     <scope>source.php</scope>
     <description>CActiveDataProvider</description>
 </snippet>

@@ -49,7 +49,7 @@ class ${1:ModelName} extends ${2:CActiveRecord}
 	}
 }
 ]]></content>
-    <tabTrigger>model</tabTrigger>
+    <tabTrigger>yii@model</tabTrigger>
     <scope>text</scope>
     <description>Yii Create model class</description>
 </snippet>

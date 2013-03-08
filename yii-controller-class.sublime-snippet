@@ -41,7 +41,7 @@ class ${2:Site}Controller extends ${3:CController}
 	*/
 }
 ]]></content>
-    <tabTrigger>controller</tabTrigger>
+    <tabTrigger>yii@controller</tabTrigger>
     <scope>text</scope>
     <description>Yii Create controller class</description>
 </snippet>

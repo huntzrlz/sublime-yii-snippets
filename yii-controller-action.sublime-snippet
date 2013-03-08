@@ -5,7 +5,7 @@ public function action${1:Index}()
 	$0
 }
 ]]></content>
-    <tabTrigger>act</tabTrigger>
+    <tabTrigger>yii@act</tabTrigger>
     <scope>source.php</scope>
     <description>Yii Create controller action method</description>
 </snippet>
